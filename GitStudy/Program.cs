@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("추가함!");
+            Console.WriteLine("이것도 추가함!");
         }
     }
 }
